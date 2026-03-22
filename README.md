@@ -1,4 +1,5 @@
-### 간단한 계산 함수를 만들고 깃허브를 이용해 관리하는 방법을 연습하고 있습니다.
+### Practice managing a GitHub repository with simple calculation functions.
 
-1. calculator.py : 간단한 계산기 모듈입니다
-2. meeting-log : 디렉토리도 `git.add`할 수 있다는 것을 공부하기 위해 만든 디렉토리입니다
+1. calculator.py: A module featuring simple calculator functions.
+
+2. meeting-log: A directory created to practice using git add for entire directories.
